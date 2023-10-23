@@ -1,7 +1,7 @@
 # qualitykart
 
-Qualitykart Web Page Demos
-Welcome to the Qualitykart Web Page Demos repository! This repository contains a collection of interactive web page demos representing various sections of Qualitykart's website. Each demo provides a sneak peek into the user interface and functionality of different pages.
+<h1>Qualitykart Web Page Demos</h1>
+<p>Welcome to the Qualitykart Web Page Demos repository! This repository contains a collection of interactive web page demos representing various sections of Qualitykart's website. Each demo provides a sneak peek into the user interface and functionality of different pages.</p>
 
 Demos
 Home
